@@ -1,0 +1,6 @@
+f = open("Snehal.txt", "r")
+data = f.read()
+new_f = open("Good.txt", "w")
+new_f.write(data)
+f.close()
+new_f.close()

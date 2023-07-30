@@ -1,0 +1,7 @@
+a = (54, 85, 74, 10, -55, 62, 99, 56, 56, 56)
+b = list(a)
+print(b)
+print(type(b))
+b.append(100)
+a = tuple(b)
+print(a)
