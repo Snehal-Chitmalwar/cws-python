@@ -1,4 +1,4 @@
-# Python Learning Reppositry
+# Python Learning Reppository
 
 ![Alt text](<python logo.jpeg>)
 
